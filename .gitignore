@@ -1,0 +1,3 @@
+fileToBeIgnored.txt
+/node_modules
+.env

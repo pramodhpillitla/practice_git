@@ -1,2 +1,2 @@
 sample2 text file!
-some change
+some change this line is being added for introducing merge conflicts
